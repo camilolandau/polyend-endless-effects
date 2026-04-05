@@ -7,6 +7,7 @@ A collection of custom effects for the [Polyend Endless](https://polyend.com/end
 | Effect | Description |
 |--------|-------------|
 | [Tremvolope](effects/tremvolope/) | Envelope-controlled stereo tremolo. Dynamics shape the rate, depth, and stereo spread — quiet signals bloom into swirling modulation, or loud attacks drive aggressive throb. |
+| [Preamp](effects/preamp/) | Transparent preamp and clean boost. Soft saturation adds warmth and compression without coloring your tone. Tilt EQ goes from round to airy in a single knob. |
 
 ## How to Use
 
